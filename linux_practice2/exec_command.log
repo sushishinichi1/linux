@@ -1,0 +1,32 @@
+    1  cd root
+    2  ls
+    3  cd server_lesson
+    4  ls
+    5  cd linux_practice2
+    6  ls
+    7  mkdir .gitignore
+    8  vi .gitignore
+    9  rm -r .gignore
+   10  rm -r .gitignore
+   11  touch .gitignore
+   12  ls
+   13  ls
+   14  touch .gitignore
+   15  ls
+   16  vi .gitignore
+   17  cat .gitignore
+   18  history300
+   19  history 300 > exec command.log
+   20  history300 > exec command.log
+   21  history300
+   22  history300 > exec_command.log
+   23  ls
+   24  cat exec_command.log
+   25  cat exec
+   26  rm exec
+   27  ls
+   28  history300 > exec_command.log
+   29  chsh -s /bin/bash
+   30  history300 > exec_command.log
+   31  history 300 > exec command.log
+   32  history | tail -n 300 > exec_command.log
